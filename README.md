@@ -18,7 +18,7 @@ Loyalty Number, Demographics, Loyalty Card, Customer Lifetime Value (CLV), Enrol
 Details, Cancellation Details.
 
 
-In the data cleaning process replace all 0’s with null for the column having data type text and vice versa.
+And I have answered all the question on the basis of analysis.
 
 For analysis there are some questions given.
 
